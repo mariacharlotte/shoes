@@ -4,7 +4,7 @@
       "id": 1,
       "title": "NIKE ACG 2020",
       "price": "US$54.99",
-      "image": "./assets/shoe1.png"
+      "image": "https://github.com/mariacharlotte/shoeapi/blob/main/src/assets/shoe1.png"
     },
     {
       "id": 2,
